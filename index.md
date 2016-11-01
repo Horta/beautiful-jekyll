@@ -13,12 +13,12 @@ We review 14 biclustering similarity measures. We define eight desirable propert
 We show examples drawn and inspired from important studies in which several biclustering measures convey misleading evaluations due to the absence of one or more of the discussed properties.
 We also advocate the use of a more general comparison approach that is based on the idea of transforming the original problem of comparing biclusterings into an equivalent problem of comparing clustering partitions with overlapping clusters.
 
-# Download
+## Download
 
 - [Manuscript](paper/manuscript.pdf)
 - [Appendix](paper/appendix.pdf)
 
-# BibTeX citation
+## BibTeX citation
 
 ```
 @article{Horta2014,
@@ -42,7 +42,7 @@ We also advocate the use of a more general comparison approach that is based on 
 }
 ```
 
-# ACM Ref
+## ACM Ref
 
 ```
 Danilo Horta and Ricardo J. G. B. Campello. 2014. Similarity measures for comparing biclusterings. IEEE/ACM Trans. Comput. Biol. Bioinformatics 11, 5 (September 2014), 942-954. DOI=http://dx.doi.org/10.1109/TCBB.2014.2325016
