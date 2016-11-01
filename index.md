@@ -15,8 +15,8 @@ We also advocate the use of a more general comparison approach that is based on 
 
 # Download
 
-- [Manuscript](https://github.com/Horta/biclustering/paper/manuscript.pdf)
-- [Appendix](https://github.com/Horta/biclustering/paper/appendix.pdf)
+- [Manuscript](paper/manuscript.pdf)
+- [Appendix](paper/appendix.pdf)
 
 # BibTeX citation
 
