@@ -23,11 +23,9 @@ description: comparison of biclustering solutions
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "home"
+  Home: "home"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - GitHub Repository: "https://github.com/Horta/biclustering"
 
 # --- Footer options --- #
 
