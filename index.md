@@ -17,3 +17,33 @@ We also advocate the use of a more general comparison approach that is based on 
 
 - [Manuscript](https://github.com/Horta/biclustering/paper/manuscript.pdf)
 - [Appendix](https://github.com/Horta/biclustering/paper/appendix.pdf)
+
+# BibTeX citation
+
+```
+@article{Horta:2014:SMC:2736148.2736163,
+ author = {Horta, Danilo and Campello, Ricardo J. G. B.},
+ title = {Similarity Measures for Comparing Biclusterings},
+ journal = {IEEE/ACM Trans. Comput. Biol. Bioinformatics},
+ issue_date = {September/October 2014},
+ volume = {11},
+ number = {5},
+ month = sep,
+ year = {2014},
+ issn = {1545-5963},
+ pages = {942--954},
+ numpages = {13},
+ url = {http://dx.doi.org/10.1109/TCBB.2014.2325016},
+ doi = {10.1109/TCBB.2014.2325016},
+ acmid = {2736163},
+ publisher = {IEEE Computer Society Press},
+ address = {Los Alamitos, CA, USA},
+ keywords = {biclustering similarity measure, external evaluation, gene expression, validity index},
+}
+```
+
+# ACM Ref
+
+```
+Danilo Horta and Ricardo J. G. B. Campello. 2014. Similarity measures for comparing biclusterings. IEEE/ACM Trans. Comput. Biol. Bioinformatics 11, 5 (September 2014), 942-954. DOI=http://dx.doi.org/10.1109/TCBB.2014.2325016
+```
