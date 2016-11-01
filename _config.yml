@@ -25,7 +25,7 @@ description: comparison of biclustering solutions
 navbar-links:
   Home: "home"
   Resources:
-    - GitHub Repository: "https://github.com/Horta/biclustering"
+    - Repository: "https://github.com/Horta/biclustering"
 
 # --- Footer options --- #
 
