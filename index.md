@@ -21,7 +21,7 @@ We also advocate the use of a more general comparison approach that is based on 
 # BibTeX citation
 
 ```
-@article{Horta:2014:SMC:2736148.2736163,
+@article{Horta2014,
  author = {Horta, Danilo and Campello, Ricardo J. G. B.},
  title = {Similarity Measures for Comparing Biclusterings},
  journal = {IEEE/ACM Trans. Comput. Biol. Bioinformatics},
