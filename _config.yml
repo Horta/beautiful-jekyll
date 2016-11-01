@@ -23,7 +23,7 @@ description: comparison of biclustering solutions
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "home"
+  Home: ""
   Resources:
     - Manuscript: "paper/manuscript.pdf"
     - Appendix: "paper/appendix.pdf"
