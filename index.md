@@ -17,8 +17,8 @@ We also advocate the use of a more general comparison approach that is based on 
 
 - [Manuscript](paper/manuscript.pdf)
 - [Appendix](paper/appendix.pdf)
-- [Code](paper/code/)
-- [Data](paper/data/)
+- [Code](paper/code.tar.gz)
+- [Data](paper/data.tar.gz)
 
 ## BibTeX citation
 
